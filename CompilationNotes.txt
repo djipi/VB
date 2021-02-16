@@ -2,7 +2,7 @@ Vasm m68k & jagrisc
 -------------------
 Creer un repertoire avec la version de vasm.
 Copy build_vasmm68k_win32.bat et build_vasmjagrisc_win32.bat dans le repertoire.
-Lancer le "Developer Command Prompt for VS2017".
+Lancer le "Developer Command Prompt for VS2019".
 Positioner le repertoire courant dans le repertoire de la version vasm.
 Launch the batch file to generate the builds.
 Le batch va generer m68k et jagrisc executables, et les renommer avec le numero de version fourni.
@@ -11,7 +11,7 @@ Vlink
 -----
 Creer un repertoire avec la version de vlink.
 Copy build_vlink_win32.bat dans le repertoire.
-Lancer le "Developer Command Prompt for VS2017".
+Lancer le "Developer Command Prompt for VS2019".
 Positioner le repertoire courant dans le repertoire de la version vlink.
 Launch the batch file to generate the builds.
 Le batch va generer l'executable, et le renommer en utilisant le numero de version fourni.
